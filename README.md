@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Isakyaa/isakyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate student majoring in computer science, and I am currently focused on improving my skills in software development, problem-solving, and computer science fundamentals.
 
-Here are some ideas to get you started:
+## 💻 What I'm Learning
+- Programming in C++ and Python
+- Data structures and algorithms
+- Git, version control, and project workflows
+- Calculus and applied math for computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects I'm Working On
+- Terminal-based flashcard study tool
+- GPA calculator for students
+- Personal productivity tracker
+
+## 🎯 Current Goals
+- Build a strong GitHub portfolio with real projects
+- Gain research or internship experience in software development
+- Prepare for graduate studies in computer science
+
+Thanks for visiting my profile!
